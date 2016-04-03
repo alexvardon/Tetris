@@ -1,4 +1,4 @@
-# *** PROJET TETRIS ***
+# PROJET TETRIS
 
 #### Groupe :
 + Alexandre MARTINI (TCSI1)
@@ -25,7 +25,7 @@ Il doit donc résister le plus longtemps à la chute continue des tétriminos, a
   + Bouger le tetrimino actif vers la gauche : ```<-``` (flèche de gauche)
   + Bouger le tetrimino actif vers la droite : ```->``` (flèche de droite)
   + Faire tourner le tetrimino : ```[SPACE]``` (barre espace)
-  + Faire tomber directement le tetrimino en bas : [MAJ] (touche maj)
+  + Faire tomber directement le tetrimino en bas : ```[MAJ]``` (touche maj)
 
 #### L'architecture :
 En ce qui concene l'architecture de notre Tetris, nous sommes partis sur du MVC (Modèle Vue Controleur) car ce style architectural est adapté à des programmes "interactifs" comme les jeux.
