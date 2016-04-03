@@ -21,7 +21,7 @@ Les lignes complétées disparaissent tout en rapportant des points et le joueur
 Le jeu n'a pas de fin : le joueur perd la partie lorsqu'un tétrimino reste bloqué en haut.
 Il doit donc résister le plus longtemps à la chute continue des tétriminos, afin de réaliser le meilleur score.
 
-* Commande :
+* Commandes :
 
   | Description                              |  Commande                    |
   | ---------------------------------------- |:----------------------------:|
